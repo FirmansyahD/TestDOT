@@ -7,3 +7,5 @@
 ##Search "Alor" ##
 
 ![alt text](https://github.com/FirmansyahD/TestDOT/blob/master/after.JPG)
+
+##MAAF BILA ADA YANG KURANG BERKENAN##

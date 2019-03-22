@@ -26,10 +26,10 @@ Class Search Extends CI_Controller
         if ($err) {
             echo "cURL Error #:" . $err;
         } else {
-            $jancok=JSON_DECODE($response);
+            $City=JSON_DECODE($response);
         }
 
-    $data["jancok"] = $jancok;
+    $data["City"] = $City;
          
     $this->load->view("search",$data);
     }

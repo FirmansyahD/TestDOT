@@ -33,7 +33,7 @@
                                 </thead>
                                 <tbody>
 								<?php $i = 1; ?>
-                                <?php foreach($jancok->rajaongkir->results as $data) {
+                                <?php foreach($City->rajaongkir->results as $data) {
                                 ?>
                                   <tr>
                                  <th scope="row"><?= $i++; ?></th>

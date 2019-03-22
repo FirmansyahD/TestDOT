@@ -1,4 +1,4 @@
-##Create Search API Rajaonngkir With COdeIGnitor and Bootstrap##
+##Create Search API Rajaonngkir With CodeIGnitor and Bootstrap##
 
 ##Without "Search" ##
 
